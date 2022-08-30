@@ -2,7 +2,6 @@
 //加入测试 = type=cron,cronexp="*/2 * * * * *",script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Auto_join_TF.js,wake-system=0
 //[MITM]
 //hostname = %APPEND% testflight.apple.com
-//by：https://t.me/rigouzhuanyehu
 //⚠️ 使用方法：
 //1、开启surge http api
 //2、打开“信息获取”脚本后打开testflight app获取信息，然后注释该脚本
