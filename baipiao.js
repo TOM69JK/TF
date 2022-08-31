@@ -1,5 +1,5 @@
 //信息获取 = type=http-request,pattern=^https:\/\/testflight\.apple\.com\/v3\/accounts/.*\/apps$,requires-body=0,script-path=https://raw.githubusercontent.com/DecoAri/JavaScript/main/Surge/TF_keys.js
-//加入测试 = type=cron,cronexp="*/2 * * * * *",script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Auto_join_TF.js,wake-system=0
+//加入测试 = type=cron,cronexp="*/2 * * * * *",script-path=https://raw.githubusercontent.com/DecoAri/JavaScript/unfinished/Surge/Auto_Join_TF.js,wake-system=0
 //[MITM]
 //hostname = %APPEND% testflight.apple.com
 //⚠️ 使用方法：
